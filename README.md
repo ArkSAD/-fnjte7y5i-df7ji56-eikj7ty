@@ -1,1 +1,2 @@
-# -fnjte7y5i-df7ji56-eikj7ty
+# discord-suggestions
+A discord bot to manage a suggestion channel
